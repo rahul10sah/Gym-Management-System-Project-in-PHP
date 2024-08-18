@@ -9,7 +9,7 @@ All sql table info can be found in table.sql.
 
 more free projects
 
-click here - https://github.com/rahul10sah/Gym-Management-System-Project-in-PHP.git
+click here for GitHub Link - https://github.com/rahul10sah/Gym-Management-System-Project-in-PHP.git
 
 
 YouTube Demo - https://youtu.be/2DyzCnSO1FA?si=mdbCdUcx4zOMjO3b
