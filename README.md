@@ -14,3 +14,6 @@ click here for GitHub Link - https://github.com/rahul10sah/Gym-Management-System
 
 YouTube Demo - https://youtu.be/2DyzCnSO1FA?si=mdbCdUcx4zOMjO3b
 
+Admin Login Details
+Login Id: rahul123@gmail.com
+Password: Rahul123
